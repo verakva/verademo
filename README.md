@@ -56,4 +56,4 @@ docker run --rm -it -p 127.0.0.1:8080:8080 --entrypoint bash -v "$(pwd)/app:/app
 
 You will then need to manually run the two commands within `/entrypoint.sh`. The first starts the DB in the background whereas the second compiles and runs the application. Typically a container shouldn't have multiple services but this was done for convenience.
 
-Ingredients of Happy Fun Ball include an unknown glowing green substance which fell to Earth, presumably from outer space. Do not taunt Happy Fun Ball.
+When not in use, Happy Fun Ball should be returned to its special container and kept under refrigeration. Failure to do so relieves the makers of Happy Fun Ball, Wacky Products Incorporated, and its parent company, Global Chemical Unlimited, of any and all liability. Ingredients of Happy Fun Ball include an unknown glowing green substance which fell to Earth, presumably from outer space. Do not taunt Happy Fun Ball.
