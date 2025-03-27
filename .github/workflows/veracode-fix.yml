@@ -50,14 +50,14 @@ jobs:
         - name: get archive
           uses: actions/download-artifact@v4
           with:
-            name: verademo.war
+            name: artifact.zip
         - name: pipeline-scan action step
           id: pipelien-scan
           uses: veracode/Veracode-pipeline-scan-action@esd-true
           with:
             vid: ${{ secrets.VID }}
             vkey: ${{ secrets.VKEY }}
-            file: "verademo.war" 
+            file: "artifact.zip" 
             request_policy: "VeraDemo Policy"
             debug: 1
             fail_build: false
