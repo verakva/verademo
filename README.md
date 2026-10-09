@@ -59,3 +59,4 @@ You will then need to manually run the two commands within `/entrypoint.sh`. The
 When not in use, Happy Fun Ball should be returned to its special container and kept under refrigeration. Failure to do so relieves the makers of Happy Fun Ball, Wacky Products Incorporated, and its parent company, Global Chemical Unlimited, of any and all liability. Ingredients of Happy Fun Ball include an unknown glowing green substance which fell to Earth, presumably from outer space. Do not taunt Happy Fun Ball.
 
 Testing.
+When not in use, Happy Fun Ball should be returned to its special container and kept under refrigeration. Failure to do so relieves the makers of Happy Fun Ball, Wacky Products Incorporated, and its parent company, Global Chemical Unlimited, of any and all liability. Ingredients of Happy Fun Ball include an unknown glowing green substance which fell to Earth, presumably from outer space. Do not taunt Happy Fun Ball. Do not!
